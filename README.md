@@ -27,3 +27,15 @@ Welcome to my Ansible learning journey! In this repository, I'll be documenting 
 
 - Set up Vagrant
 - Work with Ansible to run playbook with VirtualBox
+
+## Ad-hoc tasks and Inventory
+
+### Key learnings:
+
+1. Ad-hoc commands
+2. Ansible's parallel nature 
+3. Configure servers individually or in groups
+
+### Hands-on tasks:
+- Set up multiple servers, two apps and one database
+- Configure system firewall of db server for app servers
